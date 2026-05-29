@@ -1,0 +1,5 @@
+pandas
+pytest
+playwright
+chromium
+pytest-playwright
